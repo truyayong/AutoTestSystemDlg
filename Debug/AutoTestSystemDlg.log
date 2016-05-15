@@ -1,0 +1,31 @@
+﻿生成启动时间为 2016/5/15 20:37:44。
+     1>项目“d:\C\HistoryDone\AutoTestSystemDlg\AutoTestSystemDlg.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\AutoTestSystemDlg.pch" /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt AutoTestSystemDlg.cpp AutoTestSystemDlgDlg.cpp Markup.cpp
+         AutoTestSystemDlgDlg.cpp
+     1>d:\c\historydone\autotestsystemdlg\autotestsystemdlgdlg.cpp(202): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\c\historydone\autotestsystemdlg\autotestsystemdlgdlg.cpp(220): warning C4018: “<=”: 有符号/无符号不匹配
+     1>d:\c\historydone\autotestsystemdlg\autotestsystemdlgdlg.cpp(574): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\c\historydone\autotestsystemdlg\autotestsystemdlgdlg.cpp(575): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\c\historydone\autotestsystemdlg\autotestsystemdlgdlg.cpp(566): warning C4101: “hwnd”: 未引用的局部变量
+     1>d:\c\historydone\autotestsystemdlg\autotestsystemdlgdlg.cpp(596): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\c\historydone\autotestsystemdlg\autotestsystemdlgdlg.cpp(597): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\c\historydone\autotestsystemdlg\autotestsystemdlgdlg.cpp(588): warning C4101: “hwnd”: 未引用的局部变量
+     1>d:\c\historydone\autotestsystemdlg\autotestsystemdlgdlg.cpp(839): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+     1>d:\c\historydone\autotestsystemdlg\autotestsystemdlgdlg.cpp(1041): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         Markup.cpp
+         AutoTestSystemDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\AutoTestSystemDlg.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\Debug\AutoTestSystemDlg.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\AutoTestSystemDlg.lib" /MACHINE:X86 /SAFESEH .\Debug\AutoTestSystemDlg.res
+         .\Debug\AutoTestSystemDlg.obj
+         .\Debug\AutoTestSystemDlgDlg.obj
+         .\Debug\Markup.obj
+         .\Debug\StdAfx.obj
+         AutoTestSystemDlg.vcxproj -> d:\C\HistoryDone\AutoTestSystemDlg\.\Debug\AutoTestSystemDlg.exe
+     1>已完成生成项目“d:\C\HistoryDone\AutoTestSystemDlg\AutoTestSystemDlg.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.26
